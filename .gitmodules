@@ -1,0 +1,3 @@
+[submodule ".modules/wmk"]
+	path = .modules/wmk
+	url = https://github.com/ehawkvu/wmk.git

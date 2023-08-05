@@ -1,0 +1,19 @@
+:DATE 2022-11-07
+:TITLE Midterm predictions: Republican victory likely, very little will actually change
+# Midterm predictions: Republican victory likely, very little will actually change
+
+Since it is election week, and I consider myself an armchair politico, I figured a midterm election prediction was the proper opinion to write for this week. What’s the worst that could happen? Based on the information I had at the time of writing (Nov. 3), it does seem to me that there will be a Republican majority in both houses of Congress. I think that there is a possibility that Republicans secure a strong majority in the House, with the Senate being less so. I would be surprised to see a Republican majority over 52 seats in the Senate. There are a few reasons that have led me to this conclusion, with current aggregate polling forming my current numeric predictions. Additionally, the Biden Administration has very little to claim as achievements. Presently, the most important political move that the Biden Administration has made that could be of benefit to their cause is the CHIPS for America program, which could revitalize the semiconductor industry here in America. This win though is outweighed by the constant and numerous failures of the Biden Administration. While there isn’t one key issue, the summation of the inflation rate, the failed withdrawal from Afghanistan, the ineffectiveness of the Inflation Reduction Act and the harming of the domestic oil market have all contributed to a more than lackluster showing for the first half of the Biden Presidency.
+
+Perhaps even worse for the Biden Administration and Democrats in future elections is that having a Republican majority in both houses will prevent even more legislation from making it through the government, giving the perception of being even more ineffectual than at the present moment.
+
+If one wants to look back at history for an example of how I think the midterms will turn out, take a peek and read about the 2006 midterm election, where the parties are reversed, but the conditions are somewhat similar.
+
+Since this article already contains a likely wrong prediction, why not add more? I think it’s more interesting to talk about the consequences of a hypothetical Republican victory this midterm anyways. Especially since many of the ‘big ticket’ political controversies are unlikely to see any real change. Expect more useless legislation like the Inflation Reduction Act, which will be completely underwhelming and ineffective. I’d also expect the economy to continue to take a downturn, since having the legislature be Republican, many potential economic relief bills are unlikely to be passed, since that could give the Democrats a good public image. Expect continued political posturing, and very few substantive bills being passed.
+
+The U.S. is also likely to continue to stay involved in the war in Ukraine, however the actual position of the U.S. will continue to remain somewhat murky. Don’t get this twisted though, the U.S. is absolutely hoping for and trying to instigate Russian state collapse. This game of nuclear chicken will likely continue for some time, and the U.S. really needs to evaluate if it wants to continue playing.
+
+One thing is certain however. There will be denial of the results, from both sides of the political aisle. With the recent speech that President Biden gave, it seems clear to me that a Republican victory would still be contentious. Obviously a Democrat win would rile up people on the right as well. What this means for the future of American Republicanism, is unclear, but I don’t foresee these problems being solved in the near future.
+
+=====
+
+You can also view this article [here](https://www.valpotorch.com/opinion/article_d4d52256-5bf6-11ed-becf-ab71903ba87f.html).

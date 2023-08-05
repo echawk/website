@@ -1,0 +1,17 @@
+:DATE 2022-09-08
+:TITLE Minimize technology’s role in your life
+# Minimize technology’s role in your life
+
+The title of this article is the essence of what I am going to write about, however I think the sentiment requires some justification, particularly among those who could not fathom being without technology. While technology certainly has a place in our lives, I think its constant presence has been a detriment for the vast majority of people. While this claim has been regurgitated to oblivion, I think it needs repeating since so few actually heed the advice.
+
+Most, if not all of the internet is a hyper-stimuli, a reality better than reality. A place so realistic that many mistake it for reality. The consensus of Twitter is not public consensus. Just as the pictures on any social media are not reality, but fabrications. So much of the online experience is fake that it can be hard to distinguish the parts that are real. This doesn’t mean that everything online is fake – but know that there are big incentives to be as surreal as possible.
+
+Online privacy doesn’t exist. There is no such thing. Everything you do, every word you search is all cataloged and recorded, not for you, but for advertising agencies and government organizations that seek to catalog and label you. Maybe you like this arrangement, however I sincerely doubt that conviction, and it sounds more like a coping mechanism rather than an actual argument. Feel free to write such an argument if this is you.
+
+Going beyond the standard “social media is bad”, which is a horse beaten so dead it may as well be atomized, most of the software that you use on a day to day basis is likely bad as well. Not bad in the technical sense, but rather bad in the dependency sense. Most software that you encounter on a day to day basis is closed source - meaning you can’t access the source code. While for most people this seems like a non-issue, it means that you, nor any of your friends who can read code, can verify what the software that you are using is actually doing. Beyond the obvious security implications, the other, more subtle issue, is that you have to rely on the proprietor of the software to continue to maintain it. You are at the mercy of the developers and/or company that sells the software. And if you pay for your software, it’s likely under a subscription model and closed source. You don’t own the software, you lease the software, and the terms of the lease are liable to change at any moment.
+
+While this dependency is most obvious when viewing digital technology, there is also a dependency inherent in all of the other technology that we use day to day. And while it may seem pointless to discuss, particularly because the thought of losing access to any of these technologies may seem preposterous, it is still important to note. We are dependent on accurate clocks, roads, drugs, stationary and the list could go on and on. Your locus of control can’t ensure the quality or existence of these technologies, and that is precisely the point. You are dependent on these items to be maintained. Yes, it is entirely unreasonable to cut out all technology, but being aware of the tradeoffs and technological debt that you incur when you use them can, and will, make you more aware of the potential downsides to the adoption of any technology in the future.
+
+=====
+
+You can also view this article [here](https://www.valpotorch.com/opinion/article_66c1d930-2feb-11ed-beb2-eb7c5b3c447f.html).
