@@ -6,6 +6,7 @@ Some topics that I'm likely to write about:
 
 * Technology
     * Linux/BSD, and Software Freedom more generally.
+    * Also whatever I'm reading/learning about at the time.
 * Politics
     * Prepare for takes on Burgerland...
 * Catholicism & Religion
