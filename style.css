@@ -5,6 +5,10 @@ body {
   margin-left: 10%;
 }
 
+a {
+  color: lightgreen;
+}
+
 img {
   width: 80%;
 }
