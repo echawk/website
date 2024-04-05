@@ -1,12 +1,15 @@
 
 ## About
 
-My name is Ethan Hawk, and I'm a recent CS
-graduate from Valparaiso University, and this
-is my website. Here you'll find write ups of
-projects that I've worked on, an archive of
-all of the writing that I did while working
-for The Torch, the beginnings of a blog, among
-other things.
+I'm Ethan Hawk, and I'm an incoming Computer Science PhD student at
+[IU Bloomington](https://cs.indiana.edu/index.html).
+Previously, I was an undergraduate at [Valparaiso University](https://www.valpo.edu/).
+
+Here you'll find:
+
+* Write ups of projects
+* An archive of all of the writing that I did while working for [The Torch](http://www.valpotorch.com/)
+* The beginnings of a blog
+* et cetera...
 
 Important note: any of the views/opinions written here are strictly my own.
