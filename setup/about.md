@@ -42,10 +42,15 @@ the way that you think about interacting with your computer. Much of life
 on the computer can be navigated through text buffers.
 [Emacs optimizes for this way of working](https://youtu.be/urcL86UpqZc?feature=shared&t=210).
 
+If you'd like to check out my configuration for Emacs, it's available
+[here](https://github.com/echawk/dots/blob/master/emacs/.config/emacs/init.el).
+I may add some articles detailing specific parts of my configuration (since
+I think they would be useful to a more general audience).
+
 ## honorable mentions
 
 [neovim](https://neovim.io/) - I used to use this way back in the day, and I
-even still have [a barebones config](https://github.com/ehawkvu/dots/tree/master/neovim/.config/nvim) still kicking around.
+even still have [a barebones config](https://github.com/echawk/dots/tree/master/neovim/.config/nvim) still kicking around.
 I ended up leaving neovim because of the community, not the lack thereof, but
 the high volume of medium quality, re-inventions of the wheel.
 
@@ -102,7 +107,7 @@ If you're a C programmer, try out ruby. Or if you know Java, try out Clojure.
 The real goal is to expand your breadth of knowledge and increase the different
 models of thought that you can use to solve problems.
 
-Here is a undoubtedly controversial list of paradigms with an associated language.
+Here is a undoubtedly "controversial" list of paradigms with an associated language.
 
 * Imperative: C
 * Object-Oriented: [ruby](https://www.ruby-lang.org/en/)
@@ -122,7 +127,8 @@ programming language. The ideas transcend the languages that they
 are expressed in.
 
 I'd also say that I am *entirely uninterested* in languages that have no clear
-[bootstrap chain](https://guix.gnu.org/en/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/), and ones that have heaps of syntax. This stems from
+[bootstrap chain](https://guix.gnu.org/en/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/),
+and ones that have heaps of syntax. This stems from
 *[reflections on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)*,
 as well as my general aversion to the over-engineering of *typically* simple
 concepts. You can imagine what languages this reasoning applies to.
