@@ -313,7 +313,6 @@ NOTE: you can also checkout [ql-https](https://github.com/rudolfochrist/ql-https
 which is a lisp package for doing this without mitmproxy.
 
 ### dumped images are rather large
-;; FIXME: rewrite
 
 When dumping images to executables, the files they produce are rather hefty.
 For example, dumping lsps, even with compression enabled, still produces a
