@@ -285,7 +285,7 @@ was accessible in the common lisp image. This includes the repl, and all of
 the libraries that were loaded. It is possible to actually start up a
 swank/slynk server and connect an editor to the application, and modify
 it in *real-time*.
-[Grammarly has even used this exact technique in production.](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
+[Grammarly has even used this exact technique in production.](https://web.archive.org/web/20240113000417/https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
 
 It's mostly a process of learning how things are done.
 
