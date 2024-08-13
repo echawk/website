@@ -15,8 +15,8 @@ Now, with that out of the way:
 ## the **beef**
 
 Here's the code:
-```
 
+```
 ;; SPDX-License-Identifier: BSD-2-Clause
 
 (ql:quickload '(:ironclad :cl-ssh-keys))
@@ -213,6 +213,7 @@ If you want to checkout the version that I use and have in my dotfiles, the link
 is [here](https://github.com/echawk/dots/blob/master/scripts/.local/bin/det-ssh-keys.lisp)
 
 And here's the links to the related libraries:
+
 * [ironclad](https://github.com/sharplispers/ironclad)
 * [cl-ssh-keys](https://github.com/dnaeon/cl-ssh-keys)
 * [lesspass-cl](https://github.com/echawk/lesspass-cl)
