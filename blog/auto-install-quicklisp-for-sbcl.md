@@ -49,3 +49,47 @@ If you want to see the rest of my `.sbclrc`, you can view it
 
 This snippet also works for `ecl`, `ccl`, and `abcl`. I'm sure
 others work as well, but I have tested those three specifically.
+
+## update 8-12-2024
+
+Users may also be interested in adding ultralisp to their list
+of quicklisp dists. Here is the updated snippet which will
+also automatically install ultralisp:
+
+```
+(defpackage :quicklisp-quickstart
+  (:use :cl)
+  (:export :install))
+(in-package :quicklisp-quickstart)
+(defun install () t)
+
+(defpackage :ql-dist
+  (:use :cl)
+  (:export :install-dist :find-dist))
+(in-package :ql-dist)
+(defun install-dist (arg1 arg2 arg3) (list arg1 arg2 arg3))
+(defun find-dist (str) str)
+
+;; Switch back to cl-user package.
+(in-package :cl-user)
+
+;;; Install quicklisp if it is not already installed.
+#-quicklisp
+(let ((quicklisp-init (merge-pathnames "quicklisp/setup.lisp"
+                                       (user-homedir-pathname))))
+  (unless (probe-file quicklisp-init)
+    (uiop:run-program "curl -O https://beta.quicklisp.org/quicklisp.lisp"
+                      :output *standard-output*)
+    (load "quicklisp.lisp")
+    (quicklisp-quickstart:install)
+    (uiop:run-program "rm quicklisp.lisp"))
+
+  (when (probe-file quicklisp-init)
+    (load quicklisp-init))
+
+  ;; Also install the ultralisp dist while we are at it...
+  (unless (ql-dist:find-dist "ultralisp")
+    (ql-dist:install-dist "http://dist.ultralisp.org/" :prompt nil)))
+```
+
+Little bit more code since we have to fake more functions from quicklisp.
