@@ -176,7 +176,7 @@ Now we can bring everything together in a function, aptly named
 (defun get-seed-string ()
   "Return a string that is 'good enough' to seed ironclad with."
   (declare (optimize (safety 3)))
-  (let* ((iters 50)
+  (let* ((iters 32)
          (master-pass   "yourmasterpassword")
          (password-prof pass-prof)
 
@@ -192,12 +192,15 @@ Now we can bring everything together in a function, aptly named
                  :do (setf (lesspass:counter-of password-prof)
                            (* i step))
                  :collect
-                 (lesspass:generate-password password-prof master-pass)))))
+                 (subseq
+                  (lesspass:generate-password password-prof master-pass)
+                  (- i 1) i)))))
 ```
 
-Here we have a few more assumptions: have the number of iterations set to 50.
-Combined with the passwords of length 32, we will always have a seed string
-of length 1600. Seems secure *enough*.
+Here we have a few more assumptions: have the number of iterations set to 32.
+Then we select the ith character from each generated password. This will ensure
+that we end up with a seed string of length 32. This is important, because
+larger seed strings will create private keys that are too large for openssh.
 
 The other important part here is multiplying the step value by i, and setting
 that to be our counter before we generate our password. That will ensure
