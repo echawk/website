@@ -33,9 +33,14 @@ The *BSDs are also a good option!
 # editor
 
 [Emacs](https://www.gnu.org/software/emacs/) is far and away the best text editor
-I have used. I do need to mention that I do use Vim bindings, since I grew up
-on vim, since I've been using it since I was 15. I chose to move over to Emacs
+I have used. ~~I do need to mention that I do use Vim bindings~~, since I grew up
+on vim, as I've been using it since I was 15. I chose to move over to Emacs
 after I grew frustrated with how tedious & arcane it was to develop my own plugins.
+
+While I did use vim (evil) bindings for the first couple years of using Emacs,
+I've now moved over to using the vanilla keybindings for a multitude of reasons.
+The bindings are not that bad once you get used to them, and more of Emacs will
+*just work* once you switch to them.
 
 Emacs isn't really an editor in the traditional sense. It, like lisp, changes
 the way that you think about interacting with your computer. Much of life
@@ -113,7 +118,7 @@ Here is a undoubtedly "controversial" list of paradigms with an associated langu
 * Object-Oriented: [ruby](https://www.ruby-lang.org/en/)
 * Concurrent: [Erlang](https://www.erlang.org/)
 * Functional: [ML](https://smlfamily.github.io/)/[Lisp](https://llthw.common-lisp.dev/)
-* Meta: Lisp/[Forth](https://forth-standard.org/)
+* Meta: [Lisp](https://racket-lang.org/)/[Forth](https://forth-standard.org/)
 * Logic: [Prolog](https://www.metalevel.at/prolog)
 
 The controversy is only due to PL people being very opinionated as to what the
