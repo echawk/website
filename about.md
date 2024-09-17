@@ -1,7 +1,7 @@
 
 ## About
 
-I'm Ethan Hawk, and I'm an incoming Computer Science PhD student at
+I'm Ethan Hawk, and I'm a first year Computer Science PhD student at
 [IU Bloomington](https://cs.indiana.edu/index.html).
 Previously, I was an undergraduate at [Valparaiso University](https://www.valpo.edu/).
 
